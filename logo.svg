@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 430">
+<rect width="600" height="430" fill="none"/>
+<g fill="none" stroke="#405d99" stroke-width="5">
+<path d="M110 145C145 35 455 35 490 145"/><path d="M125 155C160 55 440 55 475 155"/>
+<path d="M145 310C190 390 410 390 455 310"/><path d="M165 315C205 370 395 370 435 315"/>
+</g>
+<g fill="none" stroke="#7d9b45" stroke-width="12" stroke-linecap="round">
+<path d="M165 315C115 260 115 205 150 155"/><path d="M435 315C485 260 485 205 450 155"/>
+</g>
+<g fill="#7d9b45">
+<ellipse cx="145" cy="260" rx="22" ry="9" transform="rotate(55 145 260)"/>
+<ellipse cx="135" cy="225" rx="22" ry="9" transform="rotate(45 135 225)"/>
+<ellipse cx="142" cy="190" rx="22" ry="9" transform="rotate(35 142 190)"/>
+<ellipse cx="455" cy="260" rx="22" ry="9" transform="rotate(-55 455 260)"/>
+<ellipse cx="465" cy="225" rx="22" ry="9" transform="rotate(-45 465 225)"/>
+<ellipse cx="458" cy="190" rx="22" ry="9" transform="rotate(-35 458 190)"/>
+</g>
+<text x="300" y="205" text-anchor="middle" font-family="Georgia,serif" font-size="92" letter-spacing="5" fill="#8d2f32">PARMA</text>
+<line x1="185" y1="225" x2="415" y2="225" stroke="#8d2f32" stroke-width="3"/>
+<text x="300" y="275" text-anchor="middle" font-family="Georgia,serif" font-size="48" letter-spacing="7" fill="#405d99">TRATTORIA</text>
+<text x="300" y="355" text-anchor="middle" font-family="Georgia,serif" font-size="38" fill="#8d2f32">ARI</text>
+</svg>
